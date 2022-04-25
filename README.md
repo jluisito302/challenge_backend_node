@@ -4,4 +4,5 @@
 
 Example to search for cities <br>
 http://localhost:3000/cities/search?q=Alma&latitude=43.70011&longitude=-79.4163
+<br>
 http://localhost:3000/cities/search?q=Asbestos&latitude=43.70011&longitude=-79.4163
